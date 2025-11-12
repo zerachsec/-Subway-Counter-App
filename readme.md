@@ -13,7 +13,7 @@ A simple people counter application built with vanilla JavaScript to track the n
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 - DOM Manipulation
 
 ## 🚀 How It Works
@@ -63,9 +63,6 @@ open index.html
 
 That's it! No dependencies or build process required.
 
-## 📸 Screenshot
-
-*(Add a screenshot of your app here)*
 
 ## 🌟 Future Enhancements
 
@@ -76,7 +73,7 @@ That's it! No dependencies or build process required.
 - [ ] Display total count across all entries
 
 ## 👨‍💻 Author
-
+ZerΔch
 Built as part of my #100DaysOfCode journey - Day 2/50
 
 ## 📝 License
